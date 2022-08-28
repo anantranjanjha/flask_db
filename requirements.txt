@@ -1,4 +1,6 @@
 Flask
+psycopg2
+psycopg2-binary
 mysql.connector
 flask_cors 
 gunicorn
