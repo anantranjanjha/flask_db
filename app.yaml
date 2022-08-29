@@ -9,4 +9,4 @@ env_variables:
   CORS_VAL: *
 
 vpc_access_connector:
-name: "projects/exemplary-sign-360717/locations/us-central1/connectors/sql-connector"
+  name: "projects/exemplary-sign-360717/locations/us-central1/connectors/sql-connector"
