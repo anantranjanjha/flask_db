@@ -112,7 +112,6 @@ config = {
     'password': "tnana",
     'host': "172.16.32.3",
     'database': "employee",
-    'raise_on_warnings':'True',
 }
 
 class Person:
